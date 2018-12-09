@@ -1,4 +1,4 @@
-__author__='libere'
+__author__='Gatare Libère'
 
 import requests
 from bs4 import BeautifulSoup
